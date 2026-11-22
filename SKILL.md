@@ -94,6 +94,22 @@ Use `templates/11-job-pitch-kit.md`. Inputs: the JD (fetch it), any company rese
 - Map proof to each need, with a "do not cross" boundary for each claim.
 - Write the 2-minute "tell me about yourself" as a hero journey, plus scripts for gaps, a 90-day plan in the person's Plan steps, questions to ask, a closing line, and a "do not say" list.
 
+### Phase 8b · Application workspace and pitch deck (Tier A roles)
+Not every application deserves a deck. Suggest tiers: **A** (interviewing, referral, dream company) gets a full workspace and deck. **B** gets a one-page fit summary. **C** gets the standard resume.
+
+For Tier A, set up one private repo (or folder) per application using `templates/application-repo/`:
+- `_brand/`: copy of the BrandScript, evidence ledger and do-not-say list. This is the only source of claims.
+- `01-jd.md`: snapshot of the posting. Paste the original text, because postings disappear.
+- `02-company-research.md`: facts, inferences and hypotheses, labelled.
+- `03-fit-map.md`: their need → best proof → result → evidence ID → boundary.
+- `04-pitch-kit.md`: from Phase 8.
+- `05-deck-outline.md`: 10 slides with speaker notes. The company is the hero.
+- `06-interview-notes.md`: per round. Feed what you learn back into the knowledge base.
+
+Keep application status in the person's job tracker (Notion, spreadsheet). The repo holds materials only.
+
+Deck structure (StoryBrand applied to one company): Title (their mission) → What they're building → The challenge (villain) → Why me (the hook) → Proof ×3 → First 90 days (the person's Plan steps) → What success looks like → Direct CTA. Build the deck in the person's slide tool. Keep the outline in the repo as the source.
+
 ### Phase 9 · Keep it evolving
 When new material arrives, follow `references/iteration-protocol.md`: inventory → extract → compare → flag conflicts → propose updates → get approval → log. Never silently overwrite an approved decision.
 

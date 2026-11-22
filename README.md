@@ -10,6 +10,7 @@ It turns scattered career material (resumes, case studies, recommendations, self
 - A **BrandScript** built one approved stage at a time
 - **Ready-to-use copy:** portfolio hero, LinkedIn, resume summary, interview intros
 - **Tailored pitch kits** for specific roles
+- **Per-application workspaces and pitch decks** for top-priority roles, built from the same approved claims
 
 The brand keeps evolving. Each new project, metric or recommendation goes through a simple update protocol, so approved decisions are never silently overwritten.
 
@@ -35,7 +36,8 @@ personal-storybrand-builder/
     ├── 00-strengths-intake.md
     ├── 00-jd-intake.md
     ├── knowledge-base-files.md   # Skeletons for files 01–10
-    └── 11-job-pitch-kit.md
+    ├── 11-job-pitch-kit.md
+    └── application-repo/         # Per-application workspace + 10-slide deck outline (Tier A roles)
 ```
 
 ## How to use
